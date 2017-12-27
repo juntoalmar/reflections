@@ -10,4 +10,4 @@ git add	<file>	-- añade un fichero al "staging area" para hacer commit
 git reset		-- remove file from staging area
 git commit 		-- hace un commit del staging area. Hay que añadir antes los ficheros de los que se quiere hacer commit con el add
 git commit -m "Commit message"	-- hacer el commit con el mensaje de 1
- 
+git diff		-- muestra cambios del working directory al staging area
