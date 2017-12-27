@@ -1,0 +1,6 @@
+lesson_2_reflections.txt
+
+What happens when you initialize a repository? Why do you need to do it?
+
+Some files and directories are created for system control. If you don't create it you can't work with git
+
