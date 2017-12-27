@@ -4,3 +4,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Some files and directories are created for system control. If you don't create it you can't work with git
 
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It's a "work in progress" directory. offers flexibility in order to make commits
+

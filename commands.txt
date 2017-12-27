@@ -7,6 +7,7 @@ git checkout		-- restaurar una versión anterior
 git init		-- crea un repository en un directorio (sin ningún commit)
 git status		-- da informacion del repository
 git commit 		-- hace un commit del directorio
+git commit -m "Commit message"	-- hacer el commit con el mensaje de 1
 git add	<file>	-- añade un fichero al "staging area" para hacer commit
 git reset		-- remove file from staging area
 
